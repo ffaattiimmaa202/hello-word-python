@@ -1,2 +1,2 @@
-# hello-word-python
+# hello-world-python
 My first python project
